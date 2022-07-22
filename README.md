@@ -3,7 +3,7 @@
 
 ![Simulation](./images/sample_demonstration.png)
 
-Project Link: (#)
+Project Link: (https://aniketh-bellala.github.io/DDS-Mini-Project-v1/)
 
 ### Built With
 
